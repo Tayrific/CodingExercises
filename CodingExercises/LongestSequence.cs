@@ -1,13 +1,13 @@
-﻿namespace CodingExercises
+﻿namespace LongestSequence
 {
     internal class LongestSequence
     {
         static void Main(string[] args)
         {
-            List<int> sequence = new List<int> {1,2,1,1,0,3,1,0,0,2,3,1,0,0,0,0,2,1,0,3,1,0,0,0,6,1,3,0,0,0};
-            Console.WriteLine("Longest sequence of days without sale: {0}",longestSeq(sequence));
+            List<int> sequence = new List<int> { 1, 2, 1, 1, 0, 3, 1, 0, 0, 2, 3, 1, 0, 0, 0, 0, 2, 1, 0, 3, 1, 0, 0, 0, 6, 1, 3, 0, 0, 0 };
+            Console.WriteLine("Longest sequence of days without sale: {0}", longestSeq(sequence));
             Console.ReadLine();
-            
+
         }
 
         static int longestSeq(List<int> sequence)
@@ -17,12 +17,16 @@
 
             foreach (int num in sequence)
             {
-                if (num == 0) {
+                if (num == 0)
+                {
                     current++;
-                    if (current > max) {
+                    if (current > max)
+                    {
                         max = current;
                     }
-                } else {
+                }
+                else
+                {
                     current = 0;
                 }
             }
