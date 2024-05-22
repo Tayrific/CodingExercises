@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Anagrams", "Anagrams\Anagra
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StarPyramid", "StarPyramid\StarPyramid.csproj", "{2C973916-EFDD-4A99-8D0D-A17EAE1CD0AE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StarPyramid2", "StarPyramid2\StarPyramid2.csproj", "{5A8CF6D0-2804-4445-8577-056E90495DA9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{2C973916-EFDD-4A99-8D0D-A17EAE1CD0AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2C973916-EFDD-4A99-8D0D-A17EAE1CD0AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2C973916-EFDD-4A99-8D0D-A17EAE1CD0AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A8CF6D0-2804-4445-8577-056E90495DA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A8CF6D0-2804-4445-8577-056E90495DA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A8CF6D0-2804-4445-8577-056E90495DA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A8CF6D0-2804-4445-8577-056E90495DA9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
