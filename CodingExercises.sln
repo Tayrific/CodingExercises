@@ -3,33 +3,35 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34902.65
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestSequence", "CodingExercises\LongestSequence.csproj", "{A0722771-2015-464B-886A-CDA5466A9E5C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LongestSequence", "CodingExercises\LongestSequence.csproj", "{A0722771-2015-464B-886A-CDA5466A9E5C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Anagrams", "Anagrams\Anagrams.csproj", "{32E828F3-ED86-4532-8AF7-3A06C8668CFC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Anagrams", "Anagrams\Anagrams.csproj", "{32E828F3-ED86-4532-8AF7-3A06C8668CFC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StarPyramid", "StarPyramid\StarPyramid.csproj", "{2C973916-EFDD-4A99-8D0D-A17EAE1CD0AE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StarPyramid", "StarPyramid\StarPyramid.csproj", "{2C973916-EFDD-4A99-8D0D-A17EAE1CD0AE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StarPyramid2", "StarPyramid2\StarPyramid2.csproj", "{5A8CF6D0-2804-4445-8577-056E90495DA9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StarPyramid2", "StarPyramid2\StarPyramid2.csproj", "{5A8CF6D0-2804-4445-8577-056E90495DA9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Diamond", "Diamond\Diamond.csproj", "{19D953FE-64E5-4ED7-B551-B2A75AF8B4D2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Diamond", "Diamond\Diamond.csproj", "{19D953FE-64E5-4ED7-B551-B2A75AF8B4D2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringReversal", "StringReversal\StringReversal.csproj", "{23F919C8-AAF8-48A1-8ADA-198AC1789B5E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringReversal", "StringReversal\StringReversal.csproj", "{23F919C8-AAF8-48A1-8ADA-198AC1789B5E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Palindrome", "Palindrome\Palindrome.csproj", "{B2A6B736-9FCE-4A22-B99B-2C2D0FB13164}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Palindrome", "Palindrome\Palindrome.csproj", "{B2A6B736-9FCE-4A22-B99B-2C2D0FB13164}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumOfDigits", "SumOfDigits\SumOfDigits.csproj", "{0BE90933-A7CC-4B12-B75A-AE678A86F5B6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SumOfDigits", "SumOfDigits\SumOfDigits.csproj", "{0BE90933-A7CC-4B12-B75A-AE678A86F5B6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoSums", "TwoSums\TwoSums.csproj", "{A66BE111-46C4-4055-AC3F-769831CB5896}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TwoSums", "TwoSums\TwoSums.csproj", "{A66BE111-46C4-4055-AC3F-769831CB5896}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prime", "Prime\Prime.csproj", "{D9C9F36A-E38F-4EF6-9A0E-939EB6BAB02C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Prime", "Prime\Prime.csproj", "{D9C9F36A-E38F-4EF6-9A0E-939EB6BAB02C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NextPrime", "NextPrime\NextPrime.csproj", "{551B86D0-B77F-48CA-BB59-8B9C52370A89}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NextPrime", "NextPrime\NextPrime.csproj", "{551B86D0-B77F-48CA-BB59-8B9C52370A89}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CBmidThree", "CBmidThree\CBmidThree.csproj", "{138D63C3-C668-4D65-9736-B8A58CB7B0D1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CBmidThree", "CBmidThree\CBmidThree.csproj", "{138D63C3-C668-4D65-9736-B8A58CB7B0D1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CBbunnyEars2", "CBbunnyEars2\CBbunnyEars2.csproj", "{DE74F4A7-C2B5-4354-86AD-303280805352}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CBbunnyEars2", "CBbunnyEars2\CBbunnyEars2.csproj", "{DE74F4A7-C2B5-4354-86AD-303280805352}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CBgroupSum6", "CBgroupSum6\CBgroupSum6.csproj", "{00DA6161-FA2F-4C92-BE63-166835015F9F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CBgroupSum6", "CBgroupSum6\CBgroupSum6.csproj", "{00DA6161-FA2F-4C92-BE63-166835015F9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CBno34", "CBno34\CBno34.csproj", "{781E628E-4151-484A-AF0B-C888AB35F346}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +95,10 @@ Global
 		{00DA6161-FA2F-4C92-BE63-166835015F9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{00DA6161-FA2F-4C92-BE63-166835015F9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{00DA6161-FA2F-4C92-BE63-166835015F9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{781E628E-4151-484A-AF0B-C888AB35F346}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{781E628E-4151-484A-AF0B-C888AB35F346}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{781E628E-4151-484A-AF0B-C888AB35F346}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{781E628E-4151-484A-AF0B-C888AB35F346}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
