@@ -4,11 +4,11 @@ Problem 2 - Anagrams
 
 Problem 3 - StarPyramid and StarPyramid2
 
-Problem 4 -
+Problem 4 - Diamond
 
-Problem 5 -
+Problem 5 - Palindrome
 
-Problem 6 -
+Problem 6 - StringReversal
 
 Problem 7 -
 
