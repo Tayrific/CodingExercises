@@ -7,7 +7,7 @@ namespace StarPyramid2
     {
         static void Main(string[] args)
         {
-            int row,space,star;
+            int row;
 
             Console.Write("How many rows: ");
             row = Convert.ToInt32(Console.ReadLine());
@@ -17,11 +17,10 @@ namespace StarPyramid2
             {
                 StringBuilder line = new StringBuilder(); //stringBuilder object
 
-                for (space = 1; space <= row - i; space++) //loop to add spaces, append adds to the end of string
+                for (int space = 1; space <= row - i; space++) //loop to add spaces, append adds to the end of string
                     line.Append(" ");
 
-
-                for (star = 1; star <= 2 * i - 1; star++) //loop to add the asteriks
+                for (int star = 1; star <= 2 * i - 1; star++) //loop to add the asteriks
                     line.Append("*");
 
                 pyramid.Add(line.ToString());  //adds to array list
