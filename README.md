@@ -6,13 +6,13 @@ Problem 3 - StarPyramid and StarPyramid2
 
 Problem 4 - Diamond
 
-Problem 5 - Palindrome
+Problem 5 - StringReversal
 
-Problem 6 - StringReversal
+Problem 6 - Palindrome
 
-Problem 7 -
+Problem 7 - SumOfDigits
 
-Problem 8 -
+Problem 8 - TwoSums
 
 Problem 9 - Prime
 
